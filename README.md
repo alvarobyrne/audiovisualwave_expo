@@ -25,4 +25,5 @@ which code is at
 
 https://github.com/mrahtz/javascript-karplus-strong
 #TODO
-this is no explanation: do add an axplanation
+* this is no explanation: do add an axplanation
+* use scriptProcessor instead of bufferSource (at http://jsdo.it/alvarobyrne/UwLV)
