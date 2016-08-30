@@ -11,7 +11,11 @@ explicitly, a file used at link above:
 
 http://amid.fish/assets/karplus-strong-algorithm/wavegen.js
 
-Or
+## Instructions
+Download all.slides.svg openit with chrome or firefox and browse using left/right arrows and/or clicking over it;
+
+##Other sources
+Still to explore
 
 http://amid.fish/javascript-karplus-strong
 
@@ -19,5 +23,3 @@ which code is at
 
 https://github.com/mrahtz/javascript-karplus-strong
 
-## Instructions
-Download all.slides.svg openit with chrome or firefox and browse using left/right arrows and/or clicking over it;
