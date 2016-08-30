@@ -17,11 +17,13 @@ an implementation of which may be found at http://jsdo.it/alvarobyrne/UwLV
 Download all.slides.svg openit with chrome or firefox and browse using left/right arrows and/or clicking over it;
 
 ##Other sources
-Still to explore
+###Still to explore
 
 http://amid.fish/javascript-karplus-strong
 
 which code is at
+###jsdo.it
+http://jsdo.it/alvarobyrne/kx2j
 
 https://github.com/mrahtz/javascript-karplus-strong
 #TODO
