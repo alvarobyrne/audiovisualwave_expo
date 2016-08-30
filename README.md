@@ -14,7 +14,7 @@ http://amid.fish/assets/karplus-strong-algorithm/wavegen.js
 an implementation of which may be found at http://jsdo.it/alvarobyrne/UwLV
 
 ## Instructions
-Download all.slides.svg openit with chrome or firefox and browse using left/right arrows and/or clicking over it;
+Download all.slides.svg open it with chrome or firefox and browse using left/right arrows and/or clicking over it and/or using mouse wheel;
 
 You may also go to https://alvarobyrne.github.io/audiovisualwave_expo/all.slides.svg and browse likewise.
 
