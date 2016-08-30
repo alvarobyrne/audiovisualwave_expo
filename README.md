@@ -1,5 +1,5 @@
 # audiovisualwave_expo
-an svg,
+an svg, created using inkscape and jessyink extension:
 
 http://htmlpreview.github.io/?https://github.com/alvarobyrne/audiovisualwave_expo/blob/master/all.slides.svg
 
