@@ -7,6 +7,10 @@ http://htmlpreview.github.io/?https://github.com/alvarobyrne/audiovisualwave_exp
 
 http://amid.fish/karplus-strong
 
+explicitly, a file used at link above:
+
+http://amid.fish/assets/karplus-strong-algorithm/wavegen.js
+
 Or
 
 http://amid.fish/javascript-karplus-strong
