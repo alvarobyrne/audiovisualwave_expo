@@ -16,6 +16,8 @@ an implementation of which may be found at http://jsdo.it/alvarobyrne/UwLV
 ## Instructions
 Download all.slides.svg openit with chrome or firefox and browse using left/right arrows and/or clicking over it;
 
+You may also go to https://alvarobyrne.github.io/audiovisualwave_expo/all.slides.svg and browse likewise.
+
 ##Other sources
 ###Still to explore
 
