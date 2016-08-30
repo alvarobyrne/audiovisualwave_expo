@@ -1,5 +1,9 @@
 # audiovisualwave_expo
-an svg (with embeded javascript, explicitly jessyink) explaining waveforms a la @mrahtz javascript karplus strong, i.e.:
+an svg,
+
+http://htmlpreview.github.io/?https://github.com/alvarobyrne/audiovisualwave_expo/all.slides.svg
+
+(with embeded javascript, explicitly jessyink) explaining waveforms a la @mrahtz javascript karplus strong, i.e.:
 
 http://amid.fish/karplus-strong
 
