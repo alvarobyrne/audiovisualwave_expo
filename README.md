@@ -11,6 +11,8 @@ explicitly, a file used at link above:
 
 http://amid.fish/assets/karplus-strong-algorithm/wavegen.js
 
+an implementation of which may be found at http://jsdo.it/alvarobyrne/UwLV
+
 ## Instructions
 Download all.slides.svg openit with chrome or firefox and browse using left/right arrows and/or clicking over it;
 
