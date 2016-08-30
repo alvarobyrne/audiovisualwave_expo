@@ -1,7 +1,7 @@
 # audiovisualwave_expo
 an svg,
 
-http://htmlpreview.github.io/?https://github.com/alvarobyrne/audiovisualwave_expo/all.slides.svg
+http://htmlpreview.github.io/?https://github.com/alvarobyrne/audiovisualwave_expo/blob/master/all.slides.svg
 
 (with embeded javascript, explicitly jessyink) explaining waveforms a la @mrahtz javascript karplus strong, i.e.:
 
