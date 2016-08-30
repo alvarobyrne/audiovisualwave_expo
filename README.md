@@ -22,10 +22,10 @@ Download all.slides.svg openit with chrome or firefox and browse using left/righ
 http://amid.fish/javascript-karplus-strong
 
 which code is at
-###jsdo.it
-http://jsdo.it/alvarobyrne/kx2j
 
 https://github.com/mrahtz/javascript-karplus-strong
+###jsdo.it
+http://jsdo.it/alvarobyrne/kx2j
 #TODO
 * this is no explanation: do add an axplanation
 * use scriptProcessor instead of bufferSource (at http://jsdo.it/alvarobyrne/UwLV)
