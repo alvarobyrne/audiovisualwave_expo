@@ -1,9 +1,12 @@
 # audiovisualwave_expo
-an svg, created using inkscape and jessyink extension:
+An svg, created using inkscape and jessyink extension 
 
-http://htmlpreview.github.io/?https://github.com/alvarobyrne/audiovisualwave_expo/blob/master/all.slides.svg
+https://alvarobyrne.github.io/audiovisualwave_expo/all.slides.svg 
 
-(with embeded javascript, explicitly jessyink) explaining waveforms a la @mrahtz javascript karplus strong, i.e.:
+and browse using left/right arrows and/or clicking over it and/or using mouse wheel. You may also download all.slides.svg file, open it with chrome or firefox and browse likewise.
+
+
+(with embeded javascript, added by jessyink) explaining waveforms a la @mrahtz javascript karplus strong, i.e.:
 
 http://amid.fish/karplus-strong
 
@@ -13,10 +16,7 @@ http://amid.fish/assets/karplus-strong-algorithm/wavegen.js
 
 an implementation of which may be found at http://jsdo.it/alvarobyrne/UwLV
 
-## Instructions
-Download all.slides.svg open it with chrome or firefox and browse using left/right arrows and/or clicking over it and/or using mouse wheel;
 
-You may also go to https://alvarobyrne.github.io/audiovisualwave_expo/all.slides.svg and browse likewise.
 
 ##Other sources
 ###Still to explore
