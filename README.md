@@ -16,7 +16,8 @@ http://amid.fish/assets/karplus-strong-algorithm/wavegen.js
 
 an implementation of which may be found at http://jsdo.it/alvarobyrne/UwLV
 
-
+##Better explanation
+Available at https://www.overleaf.com/read/hykrvqynnvvx
 
 ##Other sources
 ###Still to explore
